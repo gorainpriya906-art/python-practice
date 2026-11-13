@@ -1,0 +1,9 @@
+queue = ["Asha", "Ravi", "Meena"]
+
+queue.remove("Asha")
+queue.append("Karan")
+queue.append("Tina")
+queue.remove("Tina")
+queue.insert(0, "Tina")
+
+print(queue)
